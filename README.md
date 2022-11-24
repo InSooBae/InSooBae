@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align='center' src="https://capsule-render.vercel.app/api?type=waving&text=InSoo&animation=fadeIn&fontColor=fffafa&color=228B22">
+<img align='center' src="https://capsule-render.vercel.app/api?type=waving&text=InSoo&animation=fadeIn&fontColor=FFD700&color=228B22">
 
 ### 📚 Tech Stacks
 #### Platforms & Languages
