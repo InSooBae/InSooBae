@@ -23,4 +23,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InSooBae&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InSooBae&show_icons=true&theme=radical) -->
+<div>
+    <img align="left" width=433px src="https://github-readme-stats.vercel.app/api?username=InSooBae&show_icons=true&theme=radical"> 
+    <a href="https://solved.ac/profile/shipinwater">
+	    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shipinwater">
+    </a>
+</div>
