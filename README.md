@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align='center' src="https://capsule-render.vercel.app/api?type=waving&text=InSoo&animation=fadeIn&fontColor=fffafa&color=228B22">
 
-### 📚 Stack
+### 📚 Tech Stacks
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
